@@ -8,6 +8,23 @@
 # PROCESS-NAME: 1
 # TOTAL: 52
 payload:
+  - DOMAIN-SUFFIX,a.emby.my
+  - DOMAIN-SUFFIX,b.emby.my
+  - DOMAIN-SUFFIX,us.nanflix.net
+  - DOMAIN-SUFFIX,emby.wenjian.de
+  - DOMAIN-SUFFIX,emby.jingzhe.pro
+  - DOMAIN-SUFFIX,july-hk.vfing.de
+  - DOMAIN-SUFFIX,july.vfing.de
+  - DOMAIN-SUFFIX,alist7.eu.org
+  - DOMAIN-SUFFIX,emby.bangumi.ca
+  - DOMAIN-SUFFIX,media.nijigem.by
+  - DOMAIN-SUFFIX,ju.sfcj.org
+  - DOMAIN-SUFFIX,emby.my
+  - DOMAIN-SUFFIX,cdn.emby.my
+  - DOMAIN-SUFFIX,ccdn.emby.my
+  - DOMAIN-SUFFIX,z.sfcj.org
+  - DOMAIN-SUFFIX,cf.sfcj.org
+  - DOMAIN-SUFFIX,jg.sfcj.org
   - DOMAIN,emby.enjoyit.eu.org
   - DOMAIN,emby.lcloud.wiki
   - DOMAIN,notnetflix.cos.cat
