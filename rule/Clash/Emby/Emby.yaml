@@ -8,6 +8,7 @@
 # PROCESS-NAME: 1
 # TOTAL: 52
 payload:
+  - emby.yunti.online
   - DOMAIN-SUFFIX,a.emby.my
   - DOMAIN-SUFFIX,b.emby.my
   - DOMAIN-SUFFIX,us.nanflix.net
